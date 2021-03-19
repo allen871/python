@@ -1,2 +1,2 @@
 # python
-python相关脚本，大杂烩!!!
+python日常使用相关脚本！
